@@ -1,6 +1,4 @@
 # WNV-L2_IT
 Data, scripts and figures for analysing the evolutionary history of WNV in Italy (last data: 01/03/2022)
 
-<p align="center">
-  <img src="./plots/WNV-L2_phylodynamics.gif" width="600">
-</p>
+<img src="./plots/WNV-L2_phylodynamics.gif" width="600">
